@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kerrigan McCulloch
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was made to make more photos visible in the gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kerriganmcculloch.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. 'document.getElementById("leftarrow")' makes it possible to scroll left.
+2. DOM Methods are used to create new nodes.
+3. To duplicate a node you can use the command 'cloneNode()'.
